@@ -1,0 +1,8 @@
+1. Depth First Search ✅
+2. Stack in Python (add, remove elements) ✅
+3. Queue and Priority Queue (add and remove elements) ✅
+4. Breadth First Search  ✅
+5. Best First Search
+6. Uniform Cost Search
+7. A* Search
+8. Finding Conditional Probability
